@@ -7,3 +7,4 @@ def main():
     print('Affichage du compteur après retrait : ' + str(count))
 
 main()
+
